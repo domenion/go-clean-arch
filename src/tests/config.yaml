@@ -1,0 +1,7 @@
+app:
+  name: PIM-Connector-POC
+  version: 1.0.0
+  environment: local
+server:
+  port: 3000
+  mode: debug
